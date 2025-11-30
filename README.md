@@ -19,11 +19,11 @@ Official repository for "Reasoning About the Unsaid: Misinformation Detection wi
 
 </div>
  
-**TL;DR:**
+**🌟 TL;DR:**
 
 This paper introduces OmiGraph, the first omission-aware misinformation detection framework. By recognizing that deception operates not only through what is explicitly stated but also through what is deliberately _omitted_, OmiGraph addresses a critical yet underexplored dimension of news deception.
 
-## 🌟 Method
+## 🏠 Method
 
 <div align="center">
 
@@ -71,7 +71,7 @@ You can download the dataset from "Zoom Out and Observe: News Environment Percep
 Run the shell script:
 
 ```shell
-sh train.sh
+bash train.sh
 ```
 
 Revise the storage locations for the model and results if needed.
