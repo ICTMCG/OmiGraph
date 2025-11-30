@@ -11,10 +11,13 @@ Official repository for "Reasoning About the Unsaid: Misinformation Detection wi
 
 ---
 
-<figure style="text-align: center;">
+<div align="center">
+
   <img src="figs/motiv.png" width="500px">
-  <figcaption> "Learning from omission" for misinformation detection.</figcaption>
-</figure>
+
+  <p>"Learning from omission" for misinformation detection.</p>
+
+</div>
  
 **TL;DR:**
 
@@ -22,10 +25,13 @@ This paper introduces OmiGraph, the first omission-aware misinformation detectio
 
 ## 🌟 Method
 
-<figure style="text-align: center;">
+<div align="center">
+
   <img src="figs/omigraph.png" width="700px">
-  <figcaption> Overview of OmiGraph.</figcaption>
-</figure>
+
+  <p>Overview of OmiGraph.</p>
+
+</div>
 
 We presented **OmiGraph, the first omission-aware framework for misinformation detection**. OmiGraph introduces
 omission-aware message-passing and aggregation that establishes holistic deception perception by integrating the omission contents and relations.
