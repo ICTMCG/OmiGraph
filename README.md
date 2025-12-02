@@ -1,12 +1,22 @@
 # OmiGraph
 Official repository for "Reasoning About the Unsaid: Misinformation Detection with Omission-Aware Graph Inference", AAAI 2026.
 
-```
+🕙 Preprint:
 
+```
+@misc{wang2025reasoningunsaidmisinformationdetection,
+      title={Reasoning About the Unsaid: Misinformation Detection with Omission-Aware Graph Inference}, 
+      author={Zhengjia Wang and Danding Wang and Qiang Sheng and Jiaying Wu and Juan Cao},
+      year={2025},
+      eprint={2512.01728},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2512.01728}, 
+}
 ```
 
 - 🛠️ Project: https://github.com/ICTMCG/OmiGraph
-- 🔗 Paper: 
+- 🔗 Paper: https://arxiv.org/abs/2512.01728
 - 🏡 Home page: https://zhengjiawa.github.io/
 
 ---
@@ -80,6 +90,15 @@ Revise the storage locations for the model and results if needed.
 
 If you find this repository useful, please cite our paper:
 
+🕙 Preprint:
 ```
-
+@misc{wang2025reasoningunsaidmisinformationdetection,
+      title={Reasoning About the Unsaid: Misinformation Detection with Omission-Aware Graph Inference}, 
+      author={Zhengjia Wang and Danding Wang and Qiang Sheng and Jiaying Wu and Juan Cao},
+      year={2025},
+      eprint={2512.01728},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2512.01728}, 
+}
 ```
